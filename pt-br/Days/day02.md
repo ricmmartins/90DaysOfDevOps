@@ -1,7 +1,7 @@
 ---
-title: '#90DaysOfDevOps - Responsabilidades de um engenheiro de DevOps - Dia 2'
+title: '#90DaysOfDevOps - Responsabilidades de um engenheiro DevOps - Dia 2'
 published: false
-description: 90DaysOfDevOps - Responsabilidades de um engenheiro de DevOps 
+description: 90DaysOfDevOps - Responsabilidades de um engenheiro DevOps 
 tags: 'devops, 90daysofdevops, learning'
 cover_image: null
 canonical_url: null
