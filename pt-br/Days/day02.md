@@ -68,4 +68,4 @@ Meu conselho é assistir a todos os itens abaixo e espero que você também tenh
 - [O que é DevOps? - AWS](https://aws.amazon.com/devops/what-is-devops/)
 - [O que é DevOps? - Microsoft](https://docs.microsoft.com/en-us/devops/what-is-devops)
 
-Se você chegou até aqui, saberá se é aqui que você quer estar ou não. Vejo você no [Dia 3](dia03.md).
+Se você chegou até aqui, saberá se é aqui que você quer estar ou não. Vejo você no [Dia 3](day03.md).
