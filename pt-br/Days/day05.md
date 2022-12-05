@@ -11,7 +11,7 @@ id: 1048830
 ## Planejamento > Codificação > Build > Testes > Release > Deploy > Operação > Monitoramento
 
 Hoje vamos nos concentrar nas etapas individuais do início ao fim e no ciclo contínuo de uma aplicação no mundo DevOps.
-![DevOps](Images/Day5_DevOps8.png)
+![DevOps](../Images/Day5_DevOps8.png)
 
 ### Planejamento
 
